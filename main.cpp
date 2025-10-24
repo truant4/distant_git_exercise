@@ -3,6 +3,8 @@
 int main() {
 
     std::cout << "Hello world!" std::endl;
+    
+    std::cout << "flemme de foux" std::endl;
 
     return 0;
 }
